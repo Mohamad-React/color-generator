@@ -1,0 +1,27 @@
+.container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 100vh;
+}
+
+.Outputcontainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 350px;
+    height:300px;
+    background: rgb(226, 92, 92);
+    border: 1px solid black;
+}
+
+.Outputcontainer p {
+    text-align: center;
+    border: 1px solid black;
+    padding: 5px;
+    box-shadow: 2px 1px 5px 2px #0e0e0e;
+    background: rgb(128, 120, 120);
+    color: #f9f9f9;
+
+    
+}
